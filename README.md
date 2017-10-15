@@ -1,5 +1,6 @@
 # MKTCAP regression problem 
 
-## Exploratory Data Analysis
-## LASSO
-## Random Forest 
+
+Exploratory Data Analysis
+LASSO
+Random Forest  
